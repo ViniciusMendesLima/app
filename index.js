@@ -1,8 +1,18 @@
 const start = () => {
-  let cout = 0
-  while(cout < 10){
-    console.log(cout)
-    cout++
+  while(true){
+    let opcao = "cadastrar"
+    switch(opcao){
+      case "cadastrar":
+        console.log("vamos cadastrar")
+        break
+      case "listar":
+        console.log("vamos listar")
+        break
+      case "sair":
+        return
+
+    }
+    
   }  
 }
 
