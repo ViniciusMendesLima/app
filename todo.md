@@ -4,4 +4,4 @@
   - [x] Mentas abertas
 - [x] Marcar/Desmarcar metas como concluída
 - [x] Remover metas
-- Sistema de mensages
+- [x] Sistema de mensages
